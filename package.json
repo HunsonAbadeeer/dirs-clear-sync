@@ -1,0 +1,17 @@
+{
+  "name": "dirs-clear-sync",
+  "version": "1.0.15",
+  "description": "Ceep your source code dir sync with destination files walking recursive. Use when you wish to save file structure using babel etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test"
+  },
+  "keywords": [
+    "dir",
+    "sync",
+    "babel",
+    "gulp"
+  ],
+  "author": "HunsonAbadeer",
+  "license": "ISC"
+}
